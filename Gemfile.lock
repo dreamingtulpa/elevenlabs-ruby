@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    elevenlabs (0.1.0)
+    elevenlabs-ruby (0.2.0)
       addressable
       faraday (>= 2.0)
       faraday-multipart
@@ -66,7 +66,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  elevenlabs!
+  elevenlabs-ruby!
   minitest (~> 5.0)
   pry
   rake (~> 13.0)
